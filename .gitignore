@@ -1,0 +1,33 @@
+/bin/
+# Ignore Gradle build directory
+build/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore build artifacts and logs
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.swp
+*.tmp
+*.log
+*.out
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Maven specific files
+target/
+*.iml
+
